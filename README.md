@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,8 +50,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
