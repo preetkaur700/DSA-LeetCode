@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0200-number-of-islands) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
