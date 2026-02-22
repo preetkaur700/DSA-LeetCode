@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0200-number-of-islands) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
 | ------- |
