@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0200-number-of-islands) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0047-permutations-ii) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
 |  |
 | ------- |
