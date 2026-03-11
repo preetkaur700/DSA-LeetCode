@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Depth-First Search
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0342-power-of-four) |
