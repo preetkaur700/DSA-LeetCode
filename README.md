@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0200-number-of-islands) |
+| [0560-subarray-sum-equals-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
