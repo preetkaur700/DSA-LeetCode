@@ -1,38 +1,34 @@
 class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
-        Arrays.sort(nums);
         List<List<Integer>> result = new ArrayList<>();
-        unique(nums,0,result);
+        permDuplicate(nums,result,0);
         return result;
     }
-    public void unique(int[] nums,int index,List<List<Integer>> result){
-        if(index==nums.length){
-            List<Integer>temp=new ArrayList<>();
-            for(int arr:nums){
-                temp.add(arr);
-            }
-            result.add(temp);
-            return;
-        }
+    public void permDuplicate(int[] nums,List<List<Integer>>result ,int i){
 
-        for(int i=index;i<nums.length;i++){
+        if(i==nums.length){
+            List<Integer>ans=new ArrayList<>();
+            for(int n:nums)ans.add(n);
+            result.add(ans);return;
+        }
+        for(int j=i;j<nums.length;j++){
             boolean swap=false;
-            for(int j=index;j<i;j++){
-                if(nums[i]==nums[j]){
+            for(int k=i;k<j;k++){
+                if(nums[j]==nums[k]){
                     swap=true;
                     break;
-                }
             }
-            if(swap)continue;
-            
-            swap(nums,i,index);
-            unique(nums,index+1,result);
-            swap(nums,i,index);
         }
+            if(swap) continue;           
+            swap(nums,j,i);
+            permDuplicate(nums,result,i+1);
+            swap(nums,j,i);
+        }
+        
     }
-    public void swap(int[] arr,int i,int j){
-        int temp = arr[i];
-        arr[i]=arr[j];
-        arr[j]=temp;
+    public void swap(int[] arr,int l,int r){
+        int temp=arr[l];
+        arr[l]=arr[r];
+        arr[r]=temp;
     }
 }
