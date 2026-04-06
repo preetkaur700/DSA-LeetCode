@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0039-combination-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0901-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
