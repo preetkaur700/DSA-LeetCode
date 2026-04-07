@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0155-min-stack) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
