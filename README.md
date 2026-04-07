@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0136-single-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0189-rotate-array) |
