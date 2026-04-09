@@ -1,38 +1,20 @@
 class Solution {
-    public int maxArea(int[] height) 
-    {
-        //// TLE///
-        int n = height.length;
-        // int ans=0;    
-        // for(int i=0;i<n;i++){
-
-        //     for(int j=i+1;j<n;j++){
-        //         int width=j-i;
-        //         int minheight=Math.min(height[i],height[j]);
-        //         int area=width* minheight;
-
-        //         ans=Math.max(ans,area);
-                               
-        //     }
-        // }
-        // return ans;
-        ////////two pointer///
-        int l=0;
-        int r=n-1;
-        int ans=0;
-        while(l<r){
-            int width = r-l;
-            int minheight = Math.min(height[l],height[r]);
-            int area=width*minheight;
-            ans=Math.max(ans,area);
-
-            if(height[l]<height[r]){
-                l++;
+    public int maxArea(int[] height) {
+        int n=height.length;
+        int i=0;
+        int j=n-1;
+        int max=0;
+        while(i<j){
+            int width = j-i;
+            int minheight = Math.min(height[i],height[j]);
+            int area = width*minheight;
+            max = Math.max(max,area);
+            if(height[i]<height[j]){
+                i++;
             }else{
-                r--;
+                j--;
             }
-
-        }
-        return ans;
+        }        
+        return max;
     }
 }
