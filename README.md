@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Prefix Sum
 |  |
 | ------- |
