@@ -26,13 +26,12 @@ class Solution {
         // }
         // return dummy.next;
         ListNode prev=null;
-        ListNode temp=head;
         
         while(head!=null && head.val==val){
             head=head.next;
         }
 
-        temp=head;
+        ListNode temp=head;
         while(temp!=null){
 
             if(temp.val==val){
