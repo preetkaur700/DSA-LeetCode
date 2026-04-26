@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0202-happy-number) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0326-power-of-three) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0707-design-linked-list) |
