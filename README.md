@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
