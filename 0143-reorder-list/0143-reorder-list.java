@@ -13,34 +13,37 @@ class Solution {
         ListNode fast = head;
         ListNode slow = head;
 
-        while(fast.next!=null && fast.next.next!=null){
+        while(fast.next!=null && fast.next.next!= null){
+            slow=slow.next;
             fast = fast.next.next;
-            slow = slow.next;
         }
         ListNode second = slow.next;
-        slow.next=null;
+        slow.next = null;
 
         ListNode temp = second;
         ListNode prev = null;
         while(temp!=null){
             ListNode next = temp.next;
-            temp.next = prev;
-            prev = temp;
-            temp = next;
+            temp.next=prev;
+
+            prev=temp;
+            temp=next;
         }
         ListNode first = head;
-        ListNode sh = prev;
-        
-        while(sh!=null){
-            ListNode tempA = first.next;
-            ListNode tempB = sh.next;
+        ListNode secRev = prev;
 
-            first.next = sh;
-            sh.next = tempA;
+        while(secRev!=null){
+            ListNode tempA =  first.next;
+            ListNode tempB = secRev.next;
 
+
+            first.next = secRev;
+            secRev.next = tempA;
+    
             first = tempA;
-            sh = tempB;
-        }
-      
+            secRev = tempB;
+        }            
+                
+
     }
 }
