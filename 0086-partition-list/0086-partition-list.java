@@ -14,24 +14,22 @@ class Solution {
         ListNode greaterDummy = new ListNode(0);
 
         ListNode small = smallDummy;
-        ListNode greater = greaterDummy;
+        ListNode great = greaterDummy;
         ListNode temp=head;
+
         while(temp!=null){
 
             if(temp.val<x){
-                small.next = temp;  
-                small = small.next;
-            }
-            else{
-                greater.next = temp;
-                greater = greater.next;
+                small.next = temp;
+                small=small.next;
+            }else{
+                great.next = temp;
+                great = great.next;
             }
             temp=temp.next;
         }
-        greater.next=null;
+        great.next=null;
         small.next = greaterDummy.next;
         return smallDummy.next;
-        
-
     }
 }
