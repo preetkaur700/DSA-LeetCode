@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0090-subsets-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0202-happy-number) |
