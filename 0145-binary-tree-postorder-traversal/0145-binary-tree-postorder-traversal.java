@@ -14,16 +14,26 @@
  * }
  */
 class Solution {
-    public List<Integer> postorderTraversal(TreeNode root) {
-        ArrayList<Integer> sol = new ArrayList<>();
-        postOrder(root,sol);
-        return sol;
-    }
-    void postOrder(TreeNode root,ArrayList<Integer> sol){
-        if(root==null)return;
+    // public List<Integer> postorderTraversal(TreeNode root) {
+    //     ArrayList<Integer> sol = new ArrayList<>();
+    //     postOrder(root,sol);
+    //     return sol;
+    // }
+    // void postOrder(TreeNode root,ArrayList<Integer> sol){
+    //     if(root==null)return;
 
-        postOrder(root.left,sol);
-        postOrder(root.right,sol);
-        sol.add(root.val);
+    //     postOrder(root.left,sol);
+    //     postOrder(root.right,sol);
+    //     sol.add(root.val);
+    // }
+
+    public List<Integer> postorderTraversal(TreeNode root){
+        ArrayList<Integer> list = new ArrayList<>();
+        if(root==null) return list;
+        list.addAll(postorderTraversal(root.left));
+        list.addAll(postorderTraversal(root.right));
+        list.add(root.val);
+        return list;
     }
+
 }
