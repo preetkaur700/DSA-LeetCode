@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0344-reverse-string) |
