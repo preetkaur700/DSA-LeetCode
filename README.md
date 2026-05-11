@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
