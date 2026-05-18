@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -372,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
