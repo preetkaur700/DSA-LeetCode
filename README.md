@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2761-prime-pairs-with-target-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2485-find-the-pivot-integer](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2761-prime-pairs-with-target-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -414,8 +416,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
