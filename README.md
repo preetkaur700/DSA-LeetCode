@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
@@ -421,12 +422,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2427-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
