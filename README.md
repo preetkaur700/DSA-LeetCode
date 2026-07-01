@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0645-set-mismatch) |
+| [1250-check-if-it-is-a-good-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0342-power-of-four) |
+| [1250-check-if-it-is-a-good-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0204-count-primes) |
+| [1250-check-if-it-is-a-good-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
