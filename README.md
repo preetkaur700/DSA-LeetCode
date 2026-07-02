@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0204-count-primes) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2540-minimum-common-value) |
