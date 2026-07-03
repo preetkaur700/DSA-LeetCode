@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0136-single-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0143-reorder-list) |
