@@ -6,10 +6,9 @@ class Solution {
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
         }
 
-        for(int j: map.keySet()){
-            if(map.get(j)==1){
-                return j;
-            }
+        for(int num: map.keySet()){
+            if(map.get(num)==1)
+                return num;
         }
         return -1;
     }
