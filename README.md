@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2485-find-the-pivot-integer](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
 |  |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
