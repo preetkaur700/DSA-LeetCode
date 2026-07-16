@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2540-minimum-common-value) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -500,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
