@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0525-contiguous-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0844-backspace-string-compare) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0645-set-mismatch) |
