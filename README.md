@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0202-happy-number) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
