@@ -16,10 +16,21 @@ class Solution {
         //     }
         // }
         // return max;
+/////////////////
+        // Arrays.sort(nums);
 
-        Arrays.sort(nums);
+        // return (nums[n-1]-1)*(nums[n-2]-1);
 
-        return (nums[n-1]-1)*(nums[n-2]-1);
-        
+/////////////////
+        int max1=0,max2=0;
+        for(int arr:nums){
+            if(arr>max1){
+                max2=max1;
+                max1=arr;
+            }else if(arr>max2) {
+                max2=arr;
+            }
+        }
+        return (max1-1)*(max2-1);
     }
 }
