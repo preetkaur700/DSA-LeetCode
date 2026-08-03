@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0217-contains-duplicate) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
