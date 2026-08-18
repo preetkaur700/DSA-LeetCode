@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2090-k-radius-subarray-averages](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2090-k-radius-subarray-averages) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3536-maximum-product-of-two-digits](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
 | ------- |
