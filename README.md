@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0733-flood-fill) |
 | [1382-balance-a-binary-search-tree](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
@@ -287,12 +288,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0695-max-area-of-island) |
 ## Math
 |  |
@@ -597,4 +600,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
