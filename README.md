@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1094-car-pooling) |
 | [1250-check-if-it-is-a-good-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1094-car-pooling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1094-car-pooling) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2485-find-the-pivot-integer](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0844-backspace-string-compare) |
+| [1094-car-pooling](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1094-car-pooling) |
 | [1441-build-an-array-with-stack-operations](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -591,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1094-car-pooling](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
