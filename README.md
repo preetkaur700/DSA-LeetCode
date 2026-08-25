@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2761-prime-pairs-with-target-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4024-nearest-available-drone](https://github.com/preetkaur700/DSA-LeetCode/tree/master/4024-nearest-available-drone) |
 ## Bit Manipulation
