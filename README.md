@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2090-k-radius-subarray-averages) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
