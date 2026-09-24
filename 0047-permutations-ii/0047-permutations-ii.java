@@ -1,15 +1,17 @@
 class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
-        permDuplicate(nums,result,0);
+        duplicate(nums,result,0);
         return result;
     }
-    public void permDuplicate(int[] nums,List<List<Integer>>result ,int i){
-
+    public void duplicate(int[] nums, List<List<Integer>>result,int i){
         if(i==nums.length){
-            List<Integer>ans=new ArrayList<>();
-            for(int n:nums)ans.add(n);
-            result.add(ans);return;
+            List<Integer>ans = new ArrayList<>();
+            for(int n:nums){
+                ans.add(n);
+            }
+            result.add(ans);
+            return;
         }
         for(int j=i;j<nums.length;j++){
             boolean swap=false;
@@ -17,14 +19,13 @@ class Solution {
                 if(nums[j]==nums[k]){
                     swap=true;
                     break;
+                }
             }
-        }
-            if(swap) continue;           
+            if(swap)continue;
             swap(nums,j,i);
-            permDuplicate(nums,result,i+1);
+            duplicate(nums,result,i+1);
             swap(nums,j,i);
         }
-        
     }
     public void swap(int[] arr,int l,int r){
         int temp=arr[l];
