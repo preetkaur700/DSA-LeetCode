@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0389-find-the-difference) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0695-max-area-of-island) |
