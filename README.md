@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1250-check-if-it-is-a-good-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -654,4 +657,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
