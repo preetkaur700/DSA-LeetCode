@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Memoization
 |  |
 | ------- |
