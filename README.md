@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1382-balance-a-binary-search-tree](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Matrix
 |  |
@@ -308,12 +309,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Math
 |  |
 | ------- |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -665,4 +669,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
