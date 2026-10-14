@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1382-balance-a-binary-search-tree](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Matrix
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0743-network-delay-time) |
 | [1094-car-pooling](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Z Algorithm
 |  |
@@ -679,4 +683,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
