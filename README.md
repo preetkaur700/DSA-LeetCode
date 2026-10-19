@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2540-minimum-common-value) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3536-maximum-product-of-two-digits](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2540-minimum-common-value) |
 ## Stack
 |  |
