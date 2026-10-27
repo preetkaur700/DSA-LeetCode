@@ -1,6 +1,26 @@
 class Solution {
-    public boolean[] sieve(int n){
-
+    public int[] closestPrimes(int left, int right) {
+        
+        boolean[] prime = isPrime(right);
+        int prev = -1;
+        int min = Integer.MAX_VALUE;
+        int[] ans = {-1,-1};
+        for(int i=left;i<=right;i++){
+            if(prime[i]){
+                if(prev!=-1){
+                     int diff = i-prev;
+                    if(diff<min){
+                        min=diff;
+                        ans[0]=prev;
+                        ans[1]=i;
+                    }
+                }
+                prev=i;
+            }
+        }
+        return ans;
+    }
+    public boolean[] isPrime(int n){
         boolean[] prime = new boolean[n+1];
         Arrays.fill(prime,true);
         prime[0]=false;
@@ -14,26 +34,5 @@ class Solution {
             }
         }
         return prime;
-
-    }
-    public int[] closestPrimes(int left, int right) {
-        boolean[] prime = sieve(right);
-        int prev=-1;
-        int[] ans = {-1 , -1};
-        int min = Integer.MAX_VALUE;
-        for(int i=left;i<=right;i++){
-            if(prime[i]){
-                if(prev!=-1){
-                    int diff = i-prev;
-                    if(diff<min){
-                        min=diff;
-                        ans[0]=prev;
-                        ans[1]=i;
-                }
-            }    
-              prev=i;      
-            }
-        }
-        return ans;
     }
 }
