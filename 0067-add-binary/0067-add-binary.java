@@ -1,7 +1,9 @@
 class Solution {
     public String addBinary(String a, String b) {
-        int i=a.length()-1;
-        int j=b.length()-1;
+        
+        int i = a.length()-1;
+        int j = b.length()-1;
+
         StringBuilder sb = new StringBuilder();
         int carry=0;
         while(i>=0 || j>=0 || carry!=0){
@@ -15,8 +17,9 @@ class Solution {
                 j--;
             }
             sb.append(sum%2);
-            carry=sum/2;
+            carry = sum/2;
         }
         return sb.reverse().toString();
+
     }
 }
