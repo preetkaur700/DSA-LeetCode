@@ -738,4 +738,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1175-prime-arrangements) |
 | [2523-closest-prime-numbers-in-range](https://github.com/preetkaur700/DSA-LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
