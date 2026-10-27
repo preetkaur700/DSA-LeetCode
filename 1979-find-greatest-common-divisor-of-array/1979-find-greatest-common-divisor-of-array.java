@@ -5,8 +5,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             if(nums[i]<min){
                min=nums[i];
-            }
-            if(nums[i]>max){
+            }if(nums[i]>max){
                 max = nums[i];
             }
         }   
