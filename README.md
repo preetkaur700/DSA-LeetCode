@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0136-single-number) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1094-car-pooling) |
 | [1441-build-an-array-with-stack-operations](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
