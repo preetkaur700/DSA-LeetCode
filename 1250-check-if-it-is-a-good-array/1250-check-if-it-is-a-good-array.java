@@ -1,6 +1,6 @@
 class Solution {
     public boolean isGoodArray(int[] nums) {
-        int gcd=nums[0];
+        int gcd = nums[0];
         for(int i=0;i<nums.length;i++){
             gcd = gcd(gcd,nums[i]);
 
@@ -12,11 +12,10 @@ class Solution {
     }
     public int gcd(int a,int b){
         while(b!=0){
-            int temp=b;
-            b=a%b;
-            a=temp;
+            int rem=a%b;
+            a=b;
+            b=rem;
         }
         return a;
     }
-
 }
