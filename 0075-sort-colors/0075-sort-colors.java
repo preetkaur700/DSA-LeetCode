@@ -1,5 +1,6 @@
 class Solution {
     public void sortColors(int[] nums) {
+
         int n = nums.length;
         int low=0;
         int mid=0;
@@ -8,8 +9,8 @@ class Solution {
         while(mid<=high){
             if(nums[mid]==0){
                 swap(nums,low,mid);
-                low++;
                 mid++;
+                low++;
             }else if(nums[mid]==1){
                 mid++;
             }else if(nums[mid]==2){
@@ -17,11 +18,11 @@ class Solution {
                 high--;
             }
         }
-
     }
-    public void swap(int[] nums,int l,int r){
-        int temp = nums[l];
-        nums[l]=nums[r];
-        nums[r]=temp;
+
+    public void swap(int[] arr,int l,int r){
+        int temp = arr[l];;
+        arr[l]=arr[r];
+        arr[r]=temp;
     }
 }
