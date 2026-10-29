@@ -762,4 +762,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
