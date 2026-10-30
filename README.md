@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Trie
@@ -675,11 +677,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/preetkaur700/DSA-LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/preetkaur700/DSA-LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
