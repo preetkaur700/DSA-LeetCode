@@ -3,10 +3,13 @@ class Solution {
         boolean[] prime = new boolean[n+1];
         Arrays.fill(prime,true);
 
-       if(n<=2)return 0;
+
+        if(n<=2)return 0;
+        
+        int count=0;
         prime[0]=false;
         prime[1]=false;
-        int count=0;
+
         for(int i=2;i*i<n;i++){
             if(prime[i]){
                 for(int j=i*i;j<n;j+=i){
@@ -21,6 +24,7 @@ class Solution {
             }
         }
         return count;
-        
+
+
     }
 }
